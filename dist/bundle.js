@@ -3495,7 +3495,7 @@ function loadScene() {
     var dataR2 = readTextFile(meshPathR2);
     var meshR2 = new OBJ.Mesh(dataR2);
     Object(__WEBPACK_IMPORTED_MODULE_11__Scene__["g" /* setRoof2 */])(new __WEBPACK_IMPORTED_MODULE_10__Object__["a" /* ObjInfo */](meshR2));
-    var meshPathH = './obj/houseUnit2.obj';
+    var meshPathH = './obj/houseunit2.obj';
     var dataH = readTextFile(meshPathH);
     var meshH = new OBJ.Mesh(dataH);
     Object(__WEBPACK_IMPORTED_MODULE_11__Scene__["e" /* setHouse1 */])(new __WEBPACK_IMPORTED_MODULE_10__Object__["a" /* ObjInfo */](meshH));

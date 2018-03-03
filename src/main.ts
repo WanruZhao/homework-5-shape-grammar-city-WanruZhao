@@ -82,7 +82,7 @@ function loadScene() {
   var meshR2 = new OBJ.Mesh(dataR2);
   setRoof2(new ObjInfo(meshR2));
 
-  var meshPathH = './obj/houseUnit2.obj';
+  var meshPathH = './obj/houseunit2.obj';
   var dataH = readTextFile(meshPathH);
   var meshH = new OBJ.Mesh(dataH);
   setHouse1(new ObjInfo(meshH));
