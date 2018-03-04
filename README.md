@@ -92,7 +92,7 @@ up | subdivision | repeat | translate
 ### Models
 cap | house | roof1 | roof2
 :--:|:--:|:--:|:--:
-![](./result/cap1.png) | ![](./result/houseunit1.png) | ![](./result/roof1.png) | ![](./result/trana.png)
+![](./result/cap1.png) | ![](./result/houseunit1.png) | ![](./result/roof1.png) | ![](./result/roof2.png)
 
 ### Buidlings
 Origin | Iteration1
